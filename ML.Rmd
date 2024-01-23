@@ -18,6 +18,8 @@ summary(cars)
 **1. Exploración de los datos de tráfico de red disponibles** **Como en cualquier actividad de análisis de datos, empezaremos por la exploración de los datos disponibles. Para ello se deberá incluir en el documento a entregar datos como el volumen de la muestra, las categorías (columnas) así como la tipología de estas y cualquier observación destacable que podaís encontrar.**
 
 ```{r 1, echo=FALSE}
+library(readr)
+
 
 ```
 
