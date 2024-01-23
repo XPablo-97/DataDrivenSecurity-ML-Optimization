@@ -9,20 +9,36 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
-
-
-
 ```{r cars}
 summary(cars)
 ```
 
-## Including Plots
+#### **Exploración de Datos**
 
-You can also embed plots, for example:
+**1. Exploración de los datos de tráfico de red disponibles** **Como en cualquier actividad de análisis de datos, empezaremos por la exploración de los datos disponibles. Para ello se deberá incluir en el documento a entregar datos como el volumen de la muestra, las categorías (columnas) así como la tipología de estas y cualquier observación destacable que podaís encontrar.**
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+```{r 1, echo=FALSE}
+
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+#### **Generación del modelo de ML**
+
+#### 2. Comprender el código utilizado para segmentar el conjunto de datos entre datos de entrenamiento y datos de validación.
+
+#### **Para responder a esta sección no se requiere de ningún código a programar ni** ningún apartado en el documento RMarkdown. Sin embargo, será fundamental comprender el código incluido en la práctica para la correcta documentación en relación a la optimización del modelo.
+
+```{r 2, echo=FALSE}
+
+```
+
+#### **Mejora de resultados del modelo**
+
+#### 3. Mejora de los resultados
+Una vez ejecutado el código, comprobad la accuracy del modelo generado cuando se verifica con los datos de validación.
+Investigad el código y implementad al menos 2 mejoras que consigan aumentar 
+la precisión del modelo.
+```{r 3, echo=FALSE}
+
+```
+
+
