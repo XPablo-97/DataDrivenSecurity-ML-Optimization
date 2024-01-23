@@ -36,11 +36,9 @@ library(readr)
 #### **Mejora de resultados del modelo**
 
 #### 3. Mejora de los resultados
-Una vez ejecutado el código, comprobad la accuracy del modelo generado cuando se verifica con los datos de validación.
-Investigad el código y implementad al menos 2 mejoras que consigan aumentar 
-la precisión del modelo.
+
+Una vez ejecutado el código, comprobad la accuracy del modelo generado cuando se verifica con los datos de validación. Investigad el código y implementad al menos 2 mejoras que consigan aumentar la precisión del modelo.
+
 ```{r 3, echo=FALSE}
 
 ```
-
-
