@@ -19,7 +19,9 @@ summary(cars)
 
 ```{r 1, echo=FALSE}
 library(readr)
-
+#Mostramos los 2 dataframes creados y comprobamos que los campos esten bién definidos.
+events
+features
 
 ```
 
